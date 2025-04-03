@@ -12,7 +12,7 @@ Create your own package manager command (e.g., mypkg) with reserved name protect
 User-friendly menu for installing, removing, searching, and comparing packages.
 ### Package Installation: 
 Install packages with repository selection and dependency display.
-###Package Removal:
+### Package Removal:
 Remove packages or uninstall simulated package managers.
 ### Package Search: 
 Search for packages across detected repositories.
