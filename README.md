@@ -47,7 +47,7 @@ At least one package manager installed (pacman, apt, dnf, zypper, snap, or flatp
 
 
 ## Download the Script:
-Save termilox.py to any directory on your system (e.g., ~/Downloads).
+Save Evopkg.py to any directory on your system (e.g., ~/Downloads).
 Run the Script:
 
 ```bash
